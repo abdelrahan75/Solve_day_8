@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "solve_task_8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
